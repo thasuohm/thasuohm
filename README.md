@@ -11,6 +11,9 @@ Now I am trying to do some logic question to improve myself on:\
 ⚡ [HackerRank](https://www.hackerrank.com/thasuohm)\
 ⚡ [LeetCode](https://leetcode.com/thasuohm)  
 
+## Contact 💬
+Email : https://thanapat.suwannaard@gmail.com
+
 <!--
 **thasuohm/thasuohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
